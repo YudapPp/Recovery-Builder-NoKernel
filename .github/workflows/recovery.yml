@@ -16,9 +16,9 @@ on:
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
   MANIFEST_BRANCH: fox_9.0
-  DEVICE: rosy
-  DT_LINK: https://github.com/ElytrA8/recovery_rosy
-  DT_PATH: device/xiaomi/rosy
+  DEVICE: a03
+  DT_LINK: https://github.com/NeonzDump/twrp_samsung_a03
+  DT_PATH: device/samsung/a03
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
